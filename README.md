@@ -1,72 +1,70 @@
-# Hi there, I'm Snehal More 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+ideas+into+solutions%2C;one+line+of+code+at+a+time.;Curious+mind.+Thoughtful+engineering.;Always+learning%2C+always+building." alt="Typing SVG" />
-</div>
+# Snehal More
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interests-Problem%20Solving-EC4899?style=for-the-badge" />
+  <i>Turning ideas into solutions, one line of code at a time.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently-Learning%20DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  <a href="https://linkedin.com/in/snehal-more-33b4b427a">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/snehalmore1025">GitHub</a>
 </p>
 
-## ✨ A Little About Me
+---
 
-> I believe the best way to grow is to stay curious, keep building, and never stop asking *what if?*
+### A mind that questions. A developer who builds.
 
-I'm an MCA student and aspiring software developer who enjoys exploring technology, understanding how systems work, and turning ideas into practical solutions. From full-stack applications to Python-based document processing, I'm always looking for opportunities to learn by doing.
+I'm currently pursuing my **Master of Computer Applications at IMCC, Pune**. I enjoy exploring the logic behind software, working through challenging problems, and turning ideas into applications people can actually use.
 
-- 🎓 Pursuing MCA at IMCC, Pune
-- 💻 Former Software Development Intern at ReliSoft Technologies
-- 🧩 Interested in software engineering, databases, and problem-solving
-- 🌱 Currently strengthening Java and Data Structures & Algorithms
+My experience ranges from full-stack web applications to Python-based PDF extraction and OCR. I'm still learning, experimenting, and discovering the kind of problems I want to solve next.
 
-## 🛠️ My Tech Stack
+### What I'm working with
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,flask,mysql,mongodb,git,github,vscode&theme=dark" alt="Technology icons" />
-</div>
-
-## 🚀 Things I've Built
-
-| Project | What it does | Technologies |
-|---|---|---|
-| **CARE** | Streamlines complaint tracking and resolution | PHP, MySQL |
-| **Quiz Generator** | Interactive quizzes, automated scoring and leaderboards | React, Node.js, MongoDB |
-| **Green Tender** | Digitizes tender management workflows | Python, Flask, SQL |
-
-## 💼 My Experience
-
-**Software Development Intern · ReliSoft Technologies Pvt. Ltd.**
-
-*June 2025 – November 2025*
-
-Worked on Python-based PDF extraction workflows and explored OCR techniques for processing scanned and digital documents.
-
-## 🏆 Beyond Coding
-
-- 🥇 **Top 20 National Finalist** — IIT Bombay's National Entrepreneurship Challenge 2024, E-Cell KBJIIT.
-- 🎭 **President, Cultural Department (AAVISHKAR)** — Contributed to leading college cultural festival activities.
-
-## 🌱 What I'm Working Towards
-
-Building stronger problem-solving skills, exploring DSA with Java, and creating projects that combine thoughtful engineering with practical impact.
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/snehal-more-33b4b427a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/snehalmore1025">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" height="38" alt="Programming languages" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" height="38" alt="Web technologies" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,flask,git,github" height="38" alt="Databases and tools" />
 </p>
 
+Currently focusing on **Java, Data Structures & Algorithms, and problem-solving**.
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>01 / CARE</strong><br/>
+      <sub>PHP · MySQL</sub>
+      <p>A complaint management system built to make tracking and resolving complaints more structured.</p>
+    </td>
+    <td width="50%">
+      <strong>02 / Quiz Generator</strong><br/>
+      <sub>React · Node.js · MongoDB</sub>
+      <p>An interactive quiz platform with timed quizzes, automated scoring, and leaderboards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>03 / Green Tender</strong><br/>
+      <sub>Python · Flask · SQL · JavaScript</sub>
+      <p>A digital approach to tender management, replacing manual workflows with a web-based system.</p>
+    </td>
+  </tr>
+</table>
+
+### Beyond the screen
+
+**Software Development Intern** · ReliSoft Technologies Pvt. Ltd.  
+Worked on Python-based PDF extraction workflows and explored OCR techniques for scanned and digital documents.
+
+**E-Cell KBJIIT** · Top 20 National Finalist at IIT Bombay's National Entrepreneurship Challenge 2024.
+
+**AAVISHKAR** · Served as President of the Cultural Department, contributing to college festival organization over three years.
+
+---
+
 <p align="center">
-  <i>Curiosity fuels the ideas. Consistency turns them into reality.</i>
+  <b>Curiosity is the starting point. Consistency is the craft.</b>
 </p>
